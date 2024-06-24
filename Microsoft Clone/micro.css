@@ -1,0 +1,200 @@
+body{
+    background-color:#fff;
+    color: #000;
+    font-family: sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+a :hover{
+    border-bottom: 2px solid black;
+}
+ul{
+    list-style: none;
+}
+.container{
+    width: 95%;
+    margin-left: auto;
+}
+.navigation{
+    display: flex;
+    align-items: center;
+}
+li :hover{
+    border-bottom: 2px solid black;
+}
+.Tag{
+    color:#646161
+}
+.link{
+    display: flex;
+    justify-content: space-between;
+}
+.link li{
+   padding: 0 10px;
+   font-size: 13px;
+}
+.link2{
+    margin-left: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+.link2 li{
+    margin-top: 5px;
+    padding: 0 10px;
+    font-size: 13px;
+}
+.New{
+    margin-left: 30px;
+    color: #000;
+    font-weight:600;
+    font-size: 15px;
+    text-align: center;
+    width: 50px;
+    background-color: rgb(238, 188, 35);
+}
+.Meet{
+    margin-left: 30px;
+    font-weight: 600;
+}
+.Learn{
+    margin-left: 30px;
+    background-color: #4760ce;
+    color: #fff;
+    line-height: 35px;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    font-size: 13px;
+}
+.Top{
+    background-color: #fff;
+    width: 500px;
+    margin-left: 100px;
+    height:300px;
+
+}
+.imp{
+    background-image: url("logo3.avif");
+    width:1400px;
+    height: 400px;
+}
+.Tree :hover{
+   border-bottom: none;
+}
+.list{
+    margin-left: 300px;
+    display: flex;
+    text-align: center;
+    color: blue;
+}
+.list li{
+    padding: 0 20px;
+}
+.book :hover{
+   border-bottom: none;
+}
+.endpart{
+   display: flex;
+}
+.endpart li{
+    padding: 0 10px;
+    height: 600px;
+    width: 400px;
+    margin: 8px;
+    box-shadow: 2px 2px 5px;
+}
+.ew{
+    margin-left: 30px;
+}
+.end1 :hover{
+    border-bottom: none;
+}
+.Learn1{
+    margin-left: 30px;
+    background-color: #4760ce;
+    color: white;
+    line-height: 35px;
+    text-align: center;
+    width: 200px;
+    height: 30px;
+    font-size: 13px;
+}
+.Top1{
+    background-color: none;
+    width: 500px;
+    margin-left: 100px;
+    height:300px;
+
+}
+.imp1{
+    background-image: url("type.avif");
+    width:1400px;
+    height: 500px;
+}
+.Meet1{
+    margin-left: 30px;
+    font-weight: 600;
+    color: #fff;
+}
+.op1{
+    color: #fff;
+}
+.connect :hover{
+    border-bottom: none;
+}
+.b{
+    font-size: 40px;
+}
+.end2{
+    display: flex;
+}
+.end2 li{
+    padding: 0 10px;
+}
+.end2 :hover{
+    border-bottom: none;
+}
+.king{
+    display: flex;
+}
+.joker{
+    font-size: 15px;
+    padding: 0px;
+}
+.queen li{
+    padding-top: 20px;
+    padding-left:40px;
+    font-size: 10px;
+    opacity: 70%;
+}
+.grey{
+    background-color: #ede7e7;
+    height:500px;
+}
+.king1 :hover{
+    border-bottom: none;
+}
+.king2{
+    display: flex;
+}
+.king3{
+    display: flex;
+}
+.king3 li{
+    padding-left: 15px;
+    font-size: 10px;
+    opacity: 70%;
+}
+.king4{
+    display: flex;
+    margin-left: 380px;
+}
+.king4 li{
+    padding-left: 15px;
+    font-size: 10px;
+    opacity: 70%;
+}
